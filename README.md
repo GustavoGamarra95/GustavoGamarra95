@@ -16,9 +16,6 @@ I am currently a student of Software Analysis and Development with a deep passio
 
 <br>
 
-  
-
-
 🔭 I’m currently working on something cool 😉
 
 👯 I’m looking forward to collaborate on python projects.
@@ -26,11 +23,6 @@ I am currently a student of Software Analysis and Development with a deep passio
 🌱 Learning about Computer Vision and Machine Learning stuff
 
 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
-
-
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines="First,+solve+the+problem.+Then,+write+the+code".;++"Great+Developers+never+stop+learning".)](https://git.io/typing-svg)
 
 <br>
 
